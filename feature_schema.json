@@ -1,0 +1,8 @@
+{
+  "features": [
+    "study_hours",
+    "attendance",
+    "past_scores",
+    "assignments"
+  ]
+}
